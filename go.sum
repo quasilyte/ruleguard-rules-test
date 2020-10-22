@@ -1,5 +1,3 @@
-github.com/quasilyte/go-ruleguard v0.2.0 h1:UOVMyH2EKkxIfzrULvA9n/tO+HtEhqD9mrLSWMr5FwU=
-github.com/quasilyte/go-ruleguard v0.2.0/go.mod h1:2RT/tf0Ce0UDj5y243iWKosQogJd8+1G3Rs2fxmlYnw=
 github.com/quasilyte/go-ruleguard v0.2.1-0.20201021115306-ee20c8362ecc h1:YfNeClzbYuFvHZyqJgiRPslRbT8pCXok/4KOWcr7M4o=
 github.com/quasilyte/go-ruleguard v0.2.1-0.20201021115306-ee20c8362ecc/go.mod h1:2RT/tf0Ce0UDj5y243iWKosQogJd8+1G3Rs2fxmlYnw=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
