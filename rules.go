@@ -1,4 +1,4 @@
-package rules
+package gorules
 
 import "github.com/quasilyte/go-ruleguard/dsl/fluent"
 
