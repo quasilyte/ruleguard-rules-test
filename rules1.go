@@ -2,9 +2,7 @@ package gorules
 
 import "github.com/quasilyte/go-ruleguard/dsl/fluent"
 
-var Bundle = fluent.Bundle{
-    Version: "0.0.1",
-}
+var Bundle = fluent.Bundle{}
 
 func boolComparison(m fluent.Matcher) {
 	m.Match(`$x == true`,

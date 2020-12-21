@@ -1,4 +1,4 @@
-module github.com/quasilyte/ruleguard-rules-test
+module github.com/quasilyte/ruleguard-rules-test/sub
 
 go 1.15
 
