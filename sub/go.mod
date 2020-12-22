@@ -2,4 +2,4 @@ module github.com/quasilyte/ruleguard-rules-test/sub
 
 go 1.15
 
-require github.com/quasilyte/go-ruleguard/dsl/fluent v0.0.0-20201220235238-24af3bb61f1c
+require github.com/quasilyte/go-ruleguard/dsl v0.0.0-20201222101508-986133edf04e // indirect

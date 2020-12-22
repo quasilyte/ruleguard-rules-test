@@ -1,10 +1,10 @@
 package gorules
 
-import "github.com/quasilyte/go-ruleguard/dsl/fluent"
+import "github.com/quasilyte/go-ruleguard/dsl"
 
-var Bundle = fluent.Bundle{}
+var Bundle = dsl.Bundle{}
 
-func boolComparison(m fluent.Matcher) {
+func boolComparison(m dsl.Matcher) {
 	m.Match(`$x == true`,
 		`$x != true`,
 		`$x == false`,

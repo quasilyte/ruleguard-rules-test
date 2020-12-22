@@ -1,12 +1,12 @@
 package gorules
 
 import (
-	"github.com/quasilyte/go-ruleguard/dsl/fluent"
+	"github.com/quasilyte/go-ruleguard/dsl"
 	extrarules "github.com/quasilyte/ruleguard-rules-test"
 )
 
-var Bundle = fluent.Bundle{}
+var Bundle = dsl.Bundle{}
 
 func init() {
-	fluent.ImportRules("extra", extrarules.Bundle)
+	dsl.ImportRules("extra", extrarules.Bundle)
 }
