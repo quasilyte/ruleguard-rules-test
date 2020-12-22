@@ -1,0 +1,6 @@
+github.com/quasilyte/go-ruleguard v0.2.1 h1:56eRm0daAyny9UhJnmtJW/UyLZQusukBAB8oT8AHKHo=
+github.com/quasilyte/go-ruleguard/dsl/fluent v0.0.0-20201220235238-24af3bb61f1c/go.mod h1:P7JlQWFT7jDcFZMtUPQbtGzzzxva3rBn6oIF+LPwFcM=
+github.com/quasilyte/go-ruleguard/dsl/fluent v0.0.0-20201221190534-a804b1514032 h1:yE3YrhBrHzT8PXvhCYwFdCF/Lu9peJ9w1Rx4WbpD5zc=
+github.com/quasilyte/go-ruleguard/dsl/fluent v0.0.0-20201221190534-a804b1514032/go.mod h1:P7JlQWFT7jDcFZMtUPQbtGzzzxva3rBn6oIF+LPwFcM=
+github.com/quasilyte/ruleguard-rules-test v0.0.0-20201221175731-d6c72e205cc9 h1:Gbw53WR3Pw+pfPoZJbBbZvXgVpEZBzhgmafWkag2K2M=
+github.com/quasilyte/ruleguard-rules-test v0.0.0-20201221175731-d6c72e205cc9/go.mod h1:GGqby801kEvXbd4k5R0JzW0QyynUGr+jv7yyBrIoWyE=
